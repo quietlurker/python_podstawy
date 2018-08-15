@@ -13,6 +13,8 @@ Learning python - first "programs"
 
 ## Technologies
 * Python 3.7
+* Git
+* GitHub
 
 ## Status
 Project is: _in progress_
