@@ -1,0 +1,5 @@
+print("Aloha!\n","Jak Ci na imię?")
+imie = input()
+print("Witaj",imie,"!\n","Ile masz lat?")
+wiek =  int(input())
+print("Wiek", wiek, "lat to idealny czas na rozpoczęscie przugody z pythonem!")
