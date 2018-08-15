@@ -20,7 +20,8 @@ Learning python - first "programs"
 Project is: _in progress_
 
 ## Inspiration
-Based on https://www.flynerd.pl/tag/python-kurs
+Python: https://www.flynerd.pl/tag/python-kurs
+Git tutoria: https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
 ## Contact
 Created by quietlurker
